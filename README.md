@@ -1,4 +1,4 @@
-# Analyse de la performance et de l’accessibilité des services publics
+# Analyse de la performance et de l’accessibilité des services publics présenté par TSENGLE Kokou Joassin
 
 ## Contexte
 Ce projet a été réalisé dans le cadre d’un test de recrutement Data Analyst.  
